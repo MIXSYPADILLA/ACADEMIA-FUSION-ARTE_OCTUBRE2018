@@ -159,9 +159,11 @@ nav.navbar.navbar-expand-lg.navbar-light {
     letter-spacing: 1px;
   }
   #logo2{
-    width: 170px;
-    margin-top: -9px;
-    margin-left: 40px;
+    width: 250px;
+    height: 130px;
+    margin-top: -35px;
+    margin-left: -2px;
+    
   }
 
   .inner_page-banner1 {
