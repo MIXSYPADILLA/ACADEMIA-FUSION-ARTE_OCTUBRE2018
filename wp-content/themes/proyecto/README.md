@@ -91,7 +91,7 @@
 
 ### mixsy_2018
 
-## - clave Wordpress:
+## - Clave Wordpress:
 
 ### 9mayo1985
  
