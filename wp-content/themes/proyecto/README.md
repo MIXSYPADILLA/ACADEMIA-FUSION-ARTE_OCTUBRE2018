@@ -79,19 +79,19 @@
 ### mapa de ubicacion de academia.
 ### links que redireccionan a sitios de redes sociales reales de academia.
 
-##  Enlace Youtube:
+## - Enlace Youtube:
 
  ### https://www.youtube.com/watch?v=LPt8sLJUSAQ&feature=youtu.be
  
- ## URL de mi pagína:
+ ## - URL de mi pagína:
  
  ### http://186.64.118.50/~mpmpadilla/
 
-## Nombre de Usuario Wordpress: 
+## - Nombre de Usuario Wordpress: 
 
 ### mixsy_2018
 
-## clave Wordpress:
+## - clave Wordpress:
 
 ### 9mayo1985
  
